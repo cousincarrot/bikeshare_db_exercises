@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 start_station,TOTAL(start_station)
 2nd at Townsend,28198.0
 5th at Howard,27180.0
@@ -79,3 +80,86 @@ Townsend at 7th,0.0
 University and Emerson,0.0
 Washington at Kearny,0.0
 Yerba Buena Center of the Arts (3rd @ Howard),0.0
+=======
+start_station,TOTAL(start_station)
+2nd at Townsend,28198.0
+5th at Howard,27180.0
+2nd at South Park,15444.0
+2nd at Folsom,14928.0
+5th St at Folsom St,865.0
+5th S at E. San Salvador St,95.0
+5th St at E. San Salvador St,5.0
+Adobe on Almaden,0.0
+Arena Green / SAP Center,0.0
+Beale at Market,0.0
+Broadway St at Battery St,0.0
+California Ave Caltrain Station,0.0
+Castro Street and El Camino Real,0.0
+Charleston Park/ North Bayshore Area,0.0
+Civic Center BART (7th at Market),0.0
+Clay at Battery,0.0
+Commercial at Montgomery,0.0
+Cowper at University,0.0
+Cyril Magnin St at Ellis St,0.0
+Davis at Jackson,0.0
+Embarcadero at Bryant,0.0
+Embarcadero at Folsom,0.0
+Embarcadero at Sansome,0.0
+Embarcadero at Vallejo,0.0
+Evelyn Park and Ride,0.0
+Franklin at Maple,0.0
+Golden Gate at Polk,0.0
+Grant Avenue at Columbus Avenue,0.0
+Harry Bridges Plaza (Ferry Building),0.0
+Howard at 2nd,0.0
+Japantown,0.0
+Kaiser Hospital,0.0
+MLK Library,0.0
+Market at 10th,0.0
+Market at 4th,0.0
+Market at Sansome,0.0
+Mechanics Plaza (Market at Battery),0.0
+Mezes,0.0
+Mezes Park,0.0
+Middlefield Light Rail Station,0.0
+Mountain View Caltrain Station,0.0
+Mountain View City Hall,0.0
+Palo Alto Caltrain Station,0.0
+Park at Olive,0.0
+Paseo de San Antonio,0.0
+Post at Kearny,0.0
+Powell Street BART,0.0
+Powell at Post (Union Square),0.0
+Redwood City Caltrain Station,0.0
+Redwood City Medical Center,0.0
+Redwood City Public Library,0.0
+Rengstorff Avenue / California Street,0.0
+Ryland Park,0.0
+S. Market St at Park Ave,0.0
+SJSU - San Salvador at 9th,0.0
+SJSU 4th at San Carlos,0.0
+San Antonio Caltrain Station,0.0
+San Antonio Shopping Center,0.0
+San Francisco Caltrain (Townsend at 4th),0.0
+San Francisco Caltrain 2 (330 Townsend),0.0
+San Francisco City Hall,0.0
+San Jose City Hall,0.0
+San Jose Civic Center,0.0
+San Jose Diridon Caltrain Station,0.0
+San Mateo County Center,0.0
+San Pedro Square,0.0
+San Salvador at 1st,0.0
+Santa Clara County Civic Center,0.0
+Santa Clara at Almaden,0.0
+Sequoia Hospital,0.0
+South Van Ness at Market,0.0
+Spear at Folsom,0.0
+St James Park,0.0
+Stanford in Redwood City,0.0
+Steuart at Market,0.0
+Temporary Transbay Terminal (Howard at Beale),0.0
+Townsend at 7th,0.0
+University and Emerson,0.0
+Washington at Kearny,0.0
+Yerba Buena Center of the Arts (3rd @ Howard),0.0
+>>>>>>> 038ba9f928915142b9f7d4f8e593fd78090dc95d
